@@ -1,2 +1,2 @@
-# csci470
-csci470 Java
+# csci470 Introduction to Java
+Classwork from assignments in Java and JavaFX
